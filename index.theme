@@ -1,0 +1,30 @@
+[Icon Theme]
+Name=Blackbird
+Comment=some nice mono icons to go with the blackbird gtk theme
+
+Inherits=elementary-Xubuntu-dark,elementary-mono-dark,elementary
+Example=x-directory-normal
+
+# Directory list
+Directories=scalable/apps,scalable/actions,scalable/places
+
+[scalable/apps]
+Size=48
+Context=Apps
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[scalable/actions]
+Size=48
+Context=Apps
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[scalable/places]
+Size=48
+Context=Apps
+Type=Scalable
+MinSize=8
+MaxSize=256
